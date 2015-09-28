@@ -1,0 +1,19 @@
+{
+  "name": "intro-restful",
+  "version": "1.0.0",
+  "description": "In this exercise we will have a look at the bullding of a simple RESTful API.",
+  "main": "rest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonanC/intro-restful.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RonanC/intro-restful/issues"
+  },
+  "homepage": "https://github.com/RonanC/intro-restful#readme"
+}
