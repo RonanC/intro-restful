@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RonanC/intro-restful/issues"
   },
-  "homepage": "https://github.com/RonanC/intro-restful#readme"
+  "homepage": "https://github.com/RonanC/intro-restful#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1"
+  }
 }
